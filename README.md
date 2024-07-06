@@ -6,7 +6,6 @@
 - [Deployment](#deployment)
 - [Backend Setup](#backend-setup)
 - [API Endpoints](#api-endpoints)
-- [Frontend Setup](#frontend-setup)
 - [Running the Application](#running-the-application)
 - [Usage](#usage)
 
